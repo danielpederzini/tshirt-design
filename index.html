@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design your t-shirts!</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
+</head>
+
+<body style="margin: 0;">
+    <center>
+        <div id="background" class="background">
+            <br><br>
+
+            <b class="title">How would your t-shirt look like?</b>
+
+            <br><br>
+
+            <div id="div_settings" class="div_settings">
+                <div id="settings_text" class="settings_text">
+                    <span class="text_left">Paste here the URL of some internet image you would like<br>
+                       to see in your t-shirt (use .png for better results):</span>
+
+                    <br><br>
+
+                    <input type="text" id="in_url" placeholder="Paste the URL here!">
+
+                    <br><br><br><br>
+
+                    <span class="text_left">Select the color of the t-shirt:</span>
+
+                    <br><br>
+
+                    <select id="sl_color">
+                        <option value="white">White</option>
+                        <option value="black">Black</option>
+                        <option value="blue">Blue</option>
+                        <option value="red">Red</option>
+                    </select>
+
+                    <br><br><br><br>
+
+                    <button onclick="show()">SHOW ME MY T-SHIRT!</button>
+                </div>
+            </div>
+
+            <div id="div_images" class="div_images">
+                <div id="image_tshirt" class="img_tshirt">
+                </div>
+
+                <div id="images_text" class="images_text" style="display: block;">
+                    <span class="text_right">Your t-shirt design will appear here!</span>
+                </div>
+
+            </div>
+        </div>
+    </center>
+</body>
+
+</html>
