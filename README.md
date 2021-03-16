@@ -1,6 +1,6 @@
 # Design de camisetas // T-shirt Design
 
-# Pegue a URL da imagem, e cole na caixa de texto // Get the image URL, and paste it in the input
+# Pegue a URL de uma imagem, e cole na caixa de texto // Get the URL of an image, and paste it in the input
 
 ![image](https://user-images.githubusercontent.com/79323949/111307297-0085ee80-8638-11eb-9a7f-b1a3bb3c245f.png)
 
