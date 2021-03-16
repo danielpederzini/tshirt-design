@@ -1,6 +1,8 @@
-# T-shirt Design
+# T-shirt Designd
 
-# Get the URL, and paste it in the input
+# Get the image URL, and paste it in the input
+
+![image](https://user-images.githubusercontent.com/79323949/111307297-0085ee80-8638-11eb-9a7f-b1a3bb3c245f.png)
 
 ![image](https://user-images.githubusercontent.com/79323949/111253993-e2e26600-85f2-11eb-9195-683a24459c86.png)
 
