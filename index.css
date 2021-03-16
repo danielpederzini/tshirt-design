@@ -74,8 +74,10 @@ button {
 }
 
 .white_tshirt {
-    width: 600px;
-    height: 500px;
+    width: 550px;
+    height: 450px;
+    margin-top: 20px;
+    margin-right: 25px;
     position: relative; left: 0; top: 0;
 }
 
